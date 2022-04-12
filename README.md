@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Alexander Yovchev
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C#/SQL DataBase
 - 📫 How to reach me - you can contact with me through - "a.yovchev@abv.bg".
 
